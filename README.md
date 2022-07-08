@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# ALPACA IMAGE GENERATOR
+
+![Screenshot](https://user-images.githubusercontent.com/79695976/177892987-cf488ce0-3520-4f40-a530-5cd074a8849a.png)
+
+This project is not just about alpacas. Allowing users to generate and download avatars are common in many interactive websites. In this project, you'll learn how to create an image generator website that allows users to generate, combine, and download images.
+
+
+__inspired by [codementor projects](https://www.codementor.io/projects/web/alpaca-image-generator-website-ce2oc0eus8)__
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
